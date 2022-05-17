@@ -1,0 +1,16 @@
+D:\ProgaLabi\laba3\zavd1\bin\Debug\net5.0\zavd1.exe
+D:\ProgaLabi\laba3\zavd1\bin\Debug\net5.0\zavd1.deps.json
+D:\ProgaLabi\laba3\zavd1\bin\Debug\net5.0\zavd1.runtimeconfig.json
+D:\ProgaLabi\laba3\zavd1\bin\Debug\net5.0\zavd1.runtimeconfig.dev.json
+D:\ProgaLabi\laba3\zavd1\bin\Debug\net5.0\zavd1.dll
+D:\ProgaLabi\laba3\zavd1\bin\Debug\net5.0\ref\zavd1.dll
+D:\ProgaLabi\laba3\zavd1\bin\Debug\net5.0\zavd1.pdb
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.csproj.AssemblyReference.cache
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.AssemblyInfoInputs.cache
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.AssemblyInfo.cs
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.csproj.CoreCompileInputs.cache
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.dll
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\ref\zavd1.dll
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.pdb
+D:\ProgaLabi\laba3\zavd1\obj\Debug\net5.0\zavd1.genruntimeconfig.cache

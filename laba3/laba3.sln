@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zavd1", "zavd1\zavd1.csproj", "{354A1D00-B645-4214-969A-F065DA2D83E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zavd2", "zavd2\zavd2.csproj", "{505DCC33-F7AD-489D-9208-645AF0B4CDC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354A1D00-B645-4214-969A-F065DA2D83E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354A1D00-B645-4214-969A-F065DA2D83E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354A1D00-B645-4214-969A-F065DA2D83E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354A1D00-B645-4214-969A-F065DA2D83E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505DCC33-F7AD-489D-9208-645AF0B4CDC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505DCC33-F7AD-489D-9208-645AF0B4CDC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505DCC33-F7AD-489D-9208-645AF0B4CDC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505DCC33-F7AD-489D-9208-645AF0B4CDC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1240A83-9208-4AAD-A281-6627DE189172}
+	EndGlobalSection
+EndGlobal
